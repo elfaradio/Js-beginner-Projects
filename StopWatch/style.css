@@ -13,12 +13,12 @@
 h1 {
   display: flex;
   justify-content: center;
-  align-item: center;
+  align-items: center;
 }
 .buttons {
   display: flex;
   justify-content: center;
-  align-item: center;
+  align-items: center;
 }
 .buttons button {
   padding: 10px 20px;
@@ -36,3 +36,4 @@ h1 {
   background: #00cc7a;
   transform: scale(1.05);
 }
+
