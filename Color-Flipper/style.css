@@ -1,0 +1,38 @@
+.bg {
+  background-color: green;
+  color: white;
+}
+.br {
+  background-color: red;
+  color: white;
+}
+
+.by {
+  background-color: yellow;
+  color: black;
+}
+
+.bl {
+  background-color: blue;
+  color: white;
+}
+h1,
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 2vmin;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
